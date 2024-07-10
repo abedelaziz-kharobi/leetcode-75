@@ -26,4 +26,4 @@ This repo solved [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) usin
 #### `Sliding Window` 1 / 4
 | # | Problem | Difficulty | Solution |
 | -- | -- | :-: | ---------- |
-
+643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/?envType=study-plan-v2&envId=leetcode-75)  | Easy | [solution](https://github.com/abedelaziz-kharobi/leetcode-75/blob/main/Sliding%20Window/643-maximum-average-subarray-i.js) |
