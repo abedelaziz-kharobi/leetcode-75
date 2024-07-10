@@ -18,5 +18,12 @@ This repo solved [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) usin
 #### `Two Pointers` 2 / 4
 | # | Problem | Difficulty | Solution |
 | -- | -- | :-: | ---------- |
-283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75)  Easy | [solution](https://github.com/abedelaziz-kharobi/leetcode-75/blob/main/Two%20Pointers/283-move-zeroes.js) |
+283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75)  | Easy | [solution](https://github.com/abedelaziz-kharobi/leetcode-75/blob/main/Two%20Pointers/283-move-zeroes.js) |
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/?envType=study-plan-v2&envId=leetcode-75) | Easy | [solution](https://github.com/abedelaziz-kharobi/leetcode-75/blob/main/Two%20Pointers/392-is-subsequence.js) |
+
+<br>
+
+#### `Sliding Window` 1 / 4
+| # | Problem | Difficulty | Solution |
+| -- | -- | :-: | ---------- |
+
