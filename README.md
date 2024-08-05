@@ -38,7 +38,7 @@ This repo solved [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) usin
 
 <br>
 
-#### `Hash Map / Set` 2 / 4
+#### `Hash Map / Set` 1 / 4
 | # | Problem | Difficulty | Solution |
 | -- | -- | :-: | ---------- |
 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=study-plan-v2&envId=leetcode-75)  | Easy | [solution](https://github.com/abedelaziz-kharobi/leetcode-75/blob/main/Hash%20Map-Set/2215-find-the-difference-of-two-arrays.js) |
