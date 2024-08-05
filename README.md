@@ -1,7 +1,7 @@
 # leetcode-75 Solution in JS
 This repo solved [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) using Javascript.
 
-### 9 / 75
+### 10 / 75
 <br>
 
 #### `Array / String` 5 / 9
@@ -30,7 +30,7 @@ This repo solved [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) usin
 
 <br>
 
-#### `Prefix Sum` 1 / 2
+#### `Prefix Sum` 2 / 2
 | # | Problem | Difficulty | Solution |
 | -- | -- | :-: | ---------- |
-643 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/?envType=study-plan-v2&envId=leetcode-75)  | Easy | [solution](https://github.com/abedelaziz-kharobi/leetcode-75/blob/main/Prefix-Sum/1732-find-the-highest-altitude.js) |
+1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/?envType=study-plan-v2&envId=leetcode-75)  | Easy | [solution](https://github.com/abedelaziz-kharobi/leetcode-75/blob/main/Prefix-Sum/1732-find-the-highest-altitude.js) |
