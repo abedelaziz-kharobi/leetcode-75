@@ -34,3 +34,6 @@ This repo solved [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) usin
 | # | Problem | Difficulty | Solution |
 | -- | -- | :-: | ---------- |
 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/?envType=study-plan-v2&envId=leetcode-75)  | Easy | [solution](https://github.com/abedelaziz-kharobi/leetcode-75/blob/main/Prefix-Sum/1732-find-the-highest-altitude.js) |
+742 | [Find Pivot Index](https://leetcode.com/problems/find-the-highest-altitude/description/?envType=study-plan-v2&envId=leetcode-75)  | Easy | [solution](https://github.com/abedelaziz-kharobi/leetcode-75/blob/main/Prefix-Sum/1732-find-the-highest-altitude.js) |
+
+
