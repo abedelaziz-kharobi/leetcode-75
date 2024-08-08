@@ -49,7 +49,7 @@ This repo solved [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) usin
 #### `Queue` 1 / 2
 | # | Problem | Difficulty | Solution |
 | -- | -- | :-: | ---------- |
-933 | [ Number of Recent Calls](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=study-plan-v2&envId=leetcode-75)  | Easy | [solution](https://github.com/abedelaziz-kharobi/leetcode-75/blob/main/Hash%20Map-Set/2215-find-the-difference-of-two-arrays.js) |
+933 | [ Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/?envType=study-plan-v2&envId=leetcode-75)  | Easy | [solution](https://github.com/abedelaziz-kharobi/leetcode-75/blob/main/Queue/933-number-of-recent-calls.js) |
 
 
 
