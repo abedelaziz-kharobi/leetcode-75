@@ -1,7 +1,7 @@
 # leetcode-75 Solution in JS
 This repo solved [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) using Javascript.
 
-### 12 / 75
+### 13/ 75
 <br>
 
 #### `Array / String` 5 / 9
