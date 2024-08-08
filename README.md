@@ -44,6 +44,14 @@ This repo solved [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) usin
 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=study-plan-v2&envId=leetcode-75)  | Easy | [solution](https://github.com/abedelaziz-kharobi/leetcode-75/blob/main/Hash%20Map-Set/2215-find-the-difference-of-two-arrays.js) |
 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75)  | Easy | [solution](https://github.com/abedelaziz-kharobi/leetcode-75/blob/main/Hash%20Map-Set/1207-unique-number-of-occurrences.js) |
 
+<br>
+
+#### `Queue` 1 / 2
+| # | Problem | Difficulty | Solution |
+| -- | -- | :-: | ---------- |
+933 | [ Number of Recent Calls](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=study-plan-v2&envId=leetcode-75)  | Easy | [solution](https://github.com/abedelaziz-kharobi/leetcode-75/blob/main/Hash%20Map-Set/2215-find-the-difference-of-two-arrays.js) |
+
+
 
 
 
